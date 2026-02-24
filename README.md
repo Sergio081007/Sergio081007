@@ -16,7 +16,7 @@ Estou constantemente tentando atualizar meus conhecimentos e buscando novos desa
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF6A&color:FFF)](mailto:sergiogabriel100807@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF6A&color:FFF)]([https://www.linkedin.com/in/s%C3%A9rgio-gabriel-rodrigues-freitas-955640386/])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF6A&color:FFF)]([https://www.linkedin.com/in/sérgio-gabriel-rodrigues-freitas/])
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF6A&color:FFF)](https://www.instagram.com/sergiogabriel_0810/)
 
 #
