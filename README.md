@@ -4,6 +4,23 @@
   </a>
 </div>
 
+#
+
+<p align="center">Estudante de Ciência da Computação na Universidade Federal da Paraíba. Atualmente trabalho com Front-end e estudo Typescript paralelamente.
+Estou constantemente tentando atualizar meus conhecimentos e buscando novos desafios na área de tecnologia, com intuito de aplicar esses conhecimentos na criação de soluções inovadoras.
+  
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF6A&color:FFF)](mailto:sergiogabriel100807@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF6A&color:FFF)](https://www.linkedin.com/in/sérgio-gabriel-rodrigues-freitas/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF6A&color:FFF)](https://www.instagram.com/sergiogabriel_0810/)
+
+#
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sergio081007/Sergio081007/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sergio081007/Sergio081007/output/github-contribution-grid-snake.svg" />
